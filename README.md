@@ -13,5 +13,5 @@ Is there sufficient evidence over the past 40 years to indicate an overall chang
 3. **Influence Analysis of Film Personnel:** Examine the fluctuations in influence and performance of directors, actors, or production companies over this period to understand their impact on film quality and popularity.
 
 **Data Requirements:**
-- **Rating Data:** Access IMDb rating data spanning the last 40 years from repositories such as Kaggle.
+- **Rating Data:** Access IMDb rating data spanning the last 40 years from websites such as Kaggle.
 - **Box Office Revenue and Audience Data:** Gather historical data on movie box office revenues and audience attendance from sources like Box Office Mojo.
