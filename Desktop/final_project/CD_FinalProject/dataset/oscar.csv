@@ -1,0 +1,374 @@
+film,year_film,year_ceremony,category,imdb_score_x,num_voted_users_x,budget_x,language_x,country_x,gross_x,genres_x,num_user_for_reviews_x,duration_x,director_name
+Memoirs of a Geisha,2005,2006,ART DIRECTION,7.3,119286,85000000.0,English,USA,57010853,Drama|Romance,548,145,Rob Marshall
+Memoirs of a Geisha,2005,2006,CINEMATOGRAPHY,7.3,119286,85000000.0,English,USA,57010853,Drama|Romance,548,145,Rob Marshall
+Memoirs of a Geisha,2005,2006,COSTUME DESIGN,7.3,119286,85000000.0,English,USA,57010853,Drama|Romance,548,145,Rob Marshall
+Happy Feet,2006,2007,ANIMATED FEATURE FILM,6.5,132501,100000000.0,English,USA,197992827,Animation|Comedy|Family|Music|Romance,548,108,George Miller
+Shrek,2001,2002,ANIMATED FEATURE FILM,7.9,467113,60000000.0,English,USA,267652016,Adventure|Animation|Comedy|Family|Fantasy,945,90,Andrew Adamson
+Little Miss Sunshine,2006,2007,ACTOR IN A SUPPORTING ROLE,7.9,355810,8000000.0,English,USA,59889948,Comedy|Drama,889,101,Jonathan Dayton
+Little Miss Sunshine,2006,2007,WRITING (Original Screenplay),7.9,355810,8000000.0,English,USA,59889948,Comedy|Drama,889,101,Jonathan Dayton
+The Lives of Others,2006,2007,FOREIGN LANGUAGE FILM,8.5,259379,2000000.0,German,Germany,11284657,Drama|Thriller,407,137,Florian Henckel von Donnersmarck
+Road to Perdition,2002,2003,CINEMATOGRAPHY,7.7,200359,80000000.0,English,USA,104054514,Crime|Drama|Thriller,1009,117,Sam Mendes
+Cast Away,2000,2001,ACTOR IN A LEADING ROLE,7.7,394317,90000000.0,English,USA,233630478,Adventure|Drama|Romance,1051,143,Robert Zemeckis
+Cast Away,2000,2001,SOUND,7.7,394317,90000000.0,English,USA,233630478,Adventure|Drama|Romance,1051,143,Robert Zemeckis
+Spider-Man 2,2004,2005,VISUAL EFFECTS,7.3,411164,200000000.0,English,USA,373377893,Action|Adventure|Fantasy|Romance,1303,135,Sam Raimi
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,2006,MAKEUP,6.9,286506,180000000.0,English,USA,291709845,Adventure|Family|Fantasy,1463,150,Andrew Adamson
+Hustle & Flow,2005,2006,MUSIC (Original Song),7.4,33567,8000000.0,English,USA,22201636,Crime|Drama|Music,206,116,Craig Brewer
+Mystic River,2003,2004,ACTOR IN A LEADING ROLE,8.0,338415,25000000.0,English,USA,90135191,Crime|Drama|Mystery|Thriller,935,138,Clint Eastwood
+Mystic River,2003,2004,ACTOR IN A SUPPORTING ROLE,8.0,338415,25000000.0,English,USA,90135191,Crime|Drama|Mystery|Thriller,935,138,Clint Eastwood
+Milk,2008,2009,ACTOR IN A LEADING ROLE,7.6,136673,20000000.0,English,USA,31838002,Biography|Drama|History,281,128,Gus Van Sant
+Milk,2008,2009,WRITING (Original Screenplay),7.6,136673,20000000.0,English,USA,31838002,Biography|Drama|History,281,128,Gus Van Sant
+Avatar,2009,2010,ART DIRECTION,7.9,886204,237000000.0,English,USA,760505847,Action|Adventure|Fantasy|Sci-Fi,3054,178,James Cameron
+Avatar,2009,2010,CINEMATOGRAPHY,7.9,886204,237000000.0,English,USA,760505847,Action|Adventure|Fantasy|Sci-Fi,3054,178,James Cameron
+Avatar,2009,2010,VISUAL EFFECTS,7.9,886204,237000000.0,English,USA,760505847,Action|Adventure|Fantasy|Sci-Fi,3054,178,James Cameron
+Frida,2002,2003,MAKEUP,7.4,61651,12000000.0,English,USA,25776062,Biography|Drama|Romance,271,123,Julie Taymor
+Frida,2002,2003,MUSIC (Original Score),7.4,61651,12000000.0,English,USA,25776062,Biography|Drama|Romance,271,123,Julie Taymor
+Master and Commander: The Far Side of the World,2003,2004,CINEMATOGRAPHY,7.4,168207,150000000.0,English,USA,93926386,Action|Adventure|Drama|History|War,684,138,Peter Weir
+Master and Commander: The Far Side of the World,2003,2004,SOUND EDITING,7.4,168207,150000000.0,English,USA,93926386,Action|Adventure|Drama|History|War,684,138,Peter Weir
+Gladiator,2000,2001,ACTOR IN A LEADING ROLE,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,ACTOR IN A SUPPORTING ROLE,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,ART DIRECTION,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,BEST PICTURE,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,CINEMATOGRAPHY,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,COSTUME DESIGN,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,DIRECTING,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,FILM EDITING,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,MUSIC (Original Score),8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,SOUND,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,VISUAL EFFECTS,8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+Gladiator,2000,2001,WRITING (Screenplay Written Directly for the Screen),8.5,982637,103000000.0,English,USA,187670866,Action|Drama|Romance,2368,171,Ridley Scott
+A Beautiful Mind,2001,2002,ACTRESS IN A SUPPORTING ROLE,8.2,610568,58000000.0,English,USA,170708996,Biography|Drama,1171,135,Ron Howard
+A Beautiful Mind,2001,2002,BEST PICTURE,8.2,610568,58000000.0,English,USA,170708996,Biography|Drama,1171,135,Ron Howard
+A Beautiful Mind,2001,2002,DIRECTING,8.2,610568,58000000.0,English,USA,170708996,Biography|Drama,1171,135,Ron Howard
+A Beautiful Mind,2001,2002,WRITING (Screenplay Based on Material Previously Produced or Published),8.2,610568,58000000.0,English,USA,170708996,Biography|Drama,1171,135,Ron Howard
+Talk to Her,2002,2003,WRITING (Original Screenplay),7.9,116601,4500000.0,Spanish,Spain,92039206,Drama|Mystery|Romance,277,112,Dominique Deruddere
+The Secret in Their Eyes,2009,2010,FOREIGN LANGUAGE FILM,8.2,131831,2000000.0,Spanish,Argentina,20167424,Drama|Mystery|Thriller,231,129,Juan José Campanella
+Chicago,2002,2003,ACTRESS IN A SUPPORTING ROLE,7.2,172080,45000000.0,English,USA,170684505,Comedy|Crime|Musical,1017,113,Rob Marshall
+Chicago,2002,2003,ART DIRECTION,7.2,172080,45000000.0,English,USA,170684505,Comedy|Crime|Musical,1017,113,Rob Marshall
+Chicago,2002,2003,BEST PICTURE,7.2,172080,45000000.0,English,USA,170684505,Comedy|Crime|Musical,1017,113,Rob Marshall
+Chicago,2002,2003,COSTUME DESIGN,7.2,172080,45000000.0,English,USA,170684505,Comedy|Crime|Musical,1017,113,Rob Marshall
+Chicago,2002,2003,FILM EDITING,7.2,172080,45000000.0,English,USA,170684505,Comedy|Crime|Musical,1017,113,Rob Marshall
+Chicago,2002,2003,SOUND,7.2,172080,45000000.0,English,USA,170684505,Comedy|Crime|Musical,1017,113,Rob Marshall
+The Barbarian Invasions,2003,2004,FOREIGN LANGUAGE FILM,7.7,24921,6000000.0,French,Canada,3432342,Comedy|Crime|Drama|Mystery|Romance,166,112,Denys Arcand
+Vicky Cristina Barcelona,2008,2009,ACTRESS IN A SUPPORTING ROLE,7.2,198111,15500000.0,English,Spain,23213577,Drama|Romance,365,96,Woody Allen
+The Constant Gardener,2005,2006,ACTRESS IN A SUPPORTING ROLE,7.5,111351,15000000.0,English,UK,33565375,Drama|Mystery|Romance|Thriller,568,129,Fernando Meirelles
+The Blind Side,2009,2010,ACTRESS IN A LEADING ROLE,7.7,223127,29000000.0,English,USA,255950375,Biography|Drama|Sport,420,129,John Lee Hancock
+Tsotsi,2005,2006,FOREIGN LANGUAGE FILM,7.3,25063,3000000.0,Zulu,UK,2912363,Crime|Drama,177,94,Gavin Hood
+Capote,2005,2006,ACTOR IN A LEADING ROLE,7.4,100571,7000000.0,English,Canada,28747570,Biography|Crime|Drama,416,110,Bennett Miller
+Sideways,2004,2005,WRITING (Adapted Screenplay),7.5,149966,12000000.0,English,USA,71502303,Adventure|Comedy|Drama|Romance,835,126,Alexander Payne
+The Golden Compass,2007,2008,VISUAL EFFECTS,6.1,149019,180000000.0,English,USA,70083519,Adventure|Family|Fantasy,666,113,Chris Weitz
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+Wonder Boys,2000,2001,FILM EDITING,7.4,54643,55000000.0,English,USA,19389454,Comedy|Drama,335,107,Curtis Hanson
+Wonder Boys,2000,2001,MUSIC (Original Song),7.4,54643,55000000.0,English,USA,19389454,Comedy|Drama,335,107,Curtis Hanson
+Wonder Boys,2000,2001,WRITING (Screenplay Based on Material Previously Produced or Published),7.4,54643,55000000.0,English,USA,19389454,Comedy|Drama,335,107,Curtis Hanson
+Traffic,2000,2001,ACTOR IN A SUPPORTING ROLE,7.6,170684,48000000.0,English,USA,124107476,Crime|Drama|Thriller,867,190,Steven Soderbergh
+Traffic,2000,2001,BEST PICTURE,7.6,170684,48000000.0,English,USA,124107476,Crime|Drama|Thriller,867,190,Steven Soderbergh
+Traffic,2000,2001,DIRECTING,7.6,170684,48000000.0,English,USA,124107476,Crime|Drama|Thriller,867,190,Steven Soderbergh
+Traffic,2000,2001,FILM EDITING,7.6,170684,48000000.0,English,USA,124107476,Crime|Drama|Thriller,867,190,Steven Soderbergh
+Traffic,2000,2001,WRITING (Screenplay Based on Material Previously Produced or Published),7.6,170684,48000000.0,English,USA,124107476,Crime|Drama|Thriller,867,190,Steven Soderbergh
+The Hours,2002,2003,ACTRESS IN A LEADING ROLE,7.6,102123,25000000.0,English,USA,41597830,Drama|Romance,660,114,Stephen Daldry
+The Patriot,2000,2001,CINEMATOGRAPHY,7.1,207613,110000000.0,English,USA,113330342,Action|Drama|History|War,1144,142,Roland Emmerich
+The Patriot,2000,2001,MUSIC (Original Score),7.1,207613,110000000.0,English,USA,113330342,Action|Drama|History|War,1144,142,Roland Emmerich
+The Patriot,2000,2001,SOUND,7.1,207613,110000000.0,English,USA,113330342,Action|Drama|History|War,1144,142,Roland Emmerich
+U-571,2000,2001,SOUND,6.6,65297,62000000.0,English,France,77086030,Action|War,602,116,Jonathan Mostow
+U-571,2000,2001,SOUND EDITING,6.6,65297,62000000.0,English,France,77086030,Action|War,602,116,Jonathan Mostow
+The Bourne Ultimatum,2007,2008,FILM EDITING,8.1,491077,110000000.0,English,USA,227137090,Action|Mystery|Thriller,820,115,Paul Greengrass
+The Bourne Ultimatum,2007,2008,SOUND EDITING,8.1,491077,110000000.0,English,USA,227137090,Action|Mystery|Thriller,820,115,Paul Greengrass
+The Bourne Ultimatum,2007,2008,SOUND MIXING,8.1,491077,110000000.0,English,USA,227137090,Action|Mystery|Thriller,820,115,Paul Greengrass
+Departures,2008,2009,FOREIGN LANGUAGE FILM,8.0,54461,5000.0,Japanese,Japan,74236951,Drama,177,130,Andrew Stanton
+Gosford Park,2001,2002,WRITING (Screenplay Written Directly for the Screen),7.3,65201,19800000.0,English,UK,41300105,Drama|Mystery,651,131,Robert Altman
+Slumdog Millionaire,2008,2009,BEST PICTURE,8.0,641997,15000000.0,English,UK,141319195,Drama|Romance,1017,120,Danny Boyle
+Slumdog Millionaire,2008,2009,CINEMATOGRAPHY,8.0,641997,15000000.0,English,UK,141319195,Drama|Romance,1017,120,Danny Boyle
+Slumdog Millionaire,2008,2009,DIRECTING,8.0,641997,15000000.0,English,UK,141319195,Drama|Romance,1017,120,Danny Boyle
+Slumdog Millionaire,2008,2009,FILM EDITING,8.0,641997,15000000.0,English,UK,141319195,Drama|Romance,1017,120,Danny Boyle
+Slumdog Millionaire,2008,2009,MUSIC (Original Score),8.0,641997,15000000.0,English,UK,141319195,Drama|Romance,1017,120,Danny Boyle
+Slumdog Millionaire,2008,2009,MUSIC (Original Song),8.0,641997,15000000.0,English,UK,141319195,Drama|Romance,1017,120,Danny Boyle
+Slumdog Millionaire,2008,2009,SOUND MIXING,8.0,641997,15000000.0,English,UK,141319195,Drama|Romance,1017,120,Danny Boyle
+Slumdog Millionaire,2008,2009,WRITING (Adapted Screenplay),8.0,641997,15000000.0,English,UK,141319195,Drama|Romance,1017,120,Danny Boyle
+The Departed,2006,2007,BEST PICTURE,8.5,873649,90000000.0,English,USA,132373442,Crime|Drama|Thriller,2054,151,Martin Scorsese
+The Departed,2006,2007,DIRECTING,8.5,873649,90000000.0,English,USA,132373442,Crime|Drama|Thriller,2054,151,Martin Scorsese
+The Departed,2006,2007,FILM EDITING,8.5,873649,90000000.0,English,USA,132373442,Crime|Drama|Thriller,2054,151,Martin Scorsese
+The Departed,2006,2007,WRITING (Adapted Screenplay),8.5,873649,90000000.0,English,USA,132373442,Crime|Drama|Thriller,2054,151,Martin Scorsese
+The Aviator,2004,2005,ACTRESS IN A SUPPORTING ROLE,7.5,264318,110000000.0,English,USA,102608827,Biography|Drama,799,170,Martin Scorsese
+The Aviator,2004,2005,ART DIRECTION,7.5,264318,110000000.0,English,USA,102608827,Biography|Drama,799,170,Martin Scorsese
+The Aviator,2004,2005,CINEMATOGRAPHY,7.5,264318,110000000.0,English,USA,102608827,Biography|Drama,799,170,Martin Scorsese
+The Aviator,2004,2005,COSTUME DESIGN,7.5,264318,110000000.0,English,USA,102608827,Biography|Drama,799,170,Martin Scorsese
+The Aviator,2004,2005,FILM EDITING,7.5,264318,110000000.0,English,USA,102608827,Biography|Drama,799,170,Martin Scorsese
+Finding Nemo,2003,2004,ANIMATED FEATURE FILM,8.2,692482,94000000.0,English,USA,380838870,Adventure|Animation|Comedy|Family,866,100,Andrew Stanton
+You Can Count on Me,2000,2001,ACTRESS IN A LEADING ROLE,7.7,22145,1200000.0,English,USA,9180275,Drama,231,111,Kenneth Lonergan
+You Can Count on Me,2000,2001,WRITING (Screenplay Written Directly for the Screen),7.7,22145,1200000.0,English,USA,9180275,Drama,231,111,Kenneth Lonergan
+Marie Antoinette,2006,2007,COSTUME DESIGN,6.4,79892,40000000.0,English,USA,15962471,Biography|Drama|History|Romance,619,123,Sofia Coppola
+Hollow Man,2000,2001,VISUAL EFFECTS,5.7,101834,95000000.0,English,USA,73209340,Action|Horror|Sci-Fi|Thriller,628,119,Paul Verhoeven
+Letters from Iwo Jima,2006,2007,SOUND EDITING,7.9,132149,19000000.0,Japanese,USA,13753931,Drama|History|War,316,141,Clint Eastwood
+The Duchess,2008,2009,COSTUME DESIGN,6.9,61777,13500000.0,English,UK,13823741,Biography|Drama|History|Romance,140,110,Saul Dibb
+Atonement,2007,2008,MUSIC (Original Score),7.8,192930,30000000.0,English,UK,50921738,Drama|Mystery|Romance|War,581,123,Joe Wright
+The Reader,2008,2009,ACTRESS IN A LEADING ROLE,7.6,189812,32000000.0,English,USA,34180954,Drama|Romance,370,124,Stephen Daldry
+The Counterfeiters,2007,2008,FOREIGN LANGUAGE FILM,7.5,46936,4200000.0,German,Austria,18814713,Crime|Drama|History|War,127,99,Giuseppe Tornatore
+Chocolat,2000,2001,ACTRESS IN A LEADING ROLE,7.3,150308,25000000.0,English,UK,71309760,Drama|Romance,498,121,Lasse Hallström
+Chocolat,2000,2001,ACTRESS IN A SUPPORTING ROLE,7.3,150308,25000000.0,English,UK,71309760,Drama|Romance,498,121,Lasse Hallström
+Chocolat,2000,2001,BEST PICTURE,7.3,150308,25000000.0,English,UK,71309760,Drama|Romance,498,121,Lasse Hallström
+Chocolat,2000,2001,MUSIC (Original Score),7.3,150308,25000000.0,English,UK,71309760,Drama|Romance,498,121,Lasse Hallström
+Chocolat,2000,2001,WRITING (Screenplay Based on Material Previously Produced or Published),7.3,150308,25000000.0,English,UK,71309760,Drama|Romance,498,121,Lasse Hallström
+Nowhere in Africa,2002,2003,FOREIGN LANGUAGE FILM,7.7,10672,7000000.0,English,Germany,6173485,Biography|Drama,84,141,Caroline Link
+Erin Brockovich,2000,2001,ACTOR IN A SUPPORTING ROLE,7.3,135246,52000000.0,English,USA,125548685,Biography|Drama,498,131,Steven Soderbergh
+Erin Brockovich,2000,2001,ACTRESS IN A LEADING ROLE,7.3,135246,52000000.0,English,USA,125548685,Biography|Drama,498,131,Steven Soderbergh
+Erin Brockovich,2000,2001,BEST PICTURE,7.3,135246,52000000.0,English,USA,125548685,Biography|Drama,498,131,Steven Soderbergh
+Erin Brockovich,2000,2001,DIRECTING,7.3,135246,52000000.0,English,USA,125548685,Biography|Drama,498,131,Steven Soderbergh
+Erin Brockovich,2000,2001,WRITING (Screenplay Written Directly for the Screen),7.3,135246,52000000.0,English,USA,125548685,Biography|Drama,498,131,Steven Soderbergh
+Iris,2001,2002,ACTOR IN A SUPPORTING ROLE,7.1,14786,5500000.0,English,UK,1292119,Biography|Drama|Romance,144,91,Richard Eyre
+Cold Mountain,2003,2004,ACTRESS IN A SUPPORTING ROLE,7.2,118483,79000000.0,English,USA,95632614,Adventure|Drama|History|Romance|War,674,154,Anthony Minghella
+Black Hawk Down,2001,2002,FILM EDITING,7.7,292022,92000000.0,English,USA,108638745,Drama|History|War,1103,152,Ridley Scott
+Black Hawk Down,2001,2002,SOUND,7.7,292022,92000000.0,English,USA,108638745,Drama|History|War,1103,152,Ridley Scott
+Pirates of the Caribbean: Dead Man's Chest,2006,2007,VISUAL EFFECTS,7.3,522040,225000000.0,English,USA,423032628,Action|Adventure|Fantasy,1832,151,Gore Verbinski
+Finding Neverland,2004,2005,MUSIC (Original Score),7.8,174591,25000000.0,English,USA,51676606,Biography|Drama|Family,632,101,Marc Forster
+Shadow of the Vampire,2000,2001,ACTOR IN A SUPPORTING ROLE,6.9,34191,8000000.0,English,UK,8279017,Drama|Horror,339,92,E. Elias Merhige
+Shadow of the Vampire,2000,2001,MAKEUP,6.9,34191,8000000.0,English,UK,8279017,Drama|Horror,339,92,E. Elias Merhige
+No Country for Old Men,2007,2008,ACTOR IN A SUPPORTING ROLE,8.1,612060,25000000.0,English,USA,74273505,Crime|Drama|Thriller,1518,122,Ethan Coen
+No Country for Old Men,2007,2008,BEST PICTURE,8.1,612060,25000000.0,English,USA,74273505,Crime|Drama|Thriller,1518,122,Ethan Coen
+No Country for Old Men,2007,2008,DIRECTING,8.1,612060,25000000.0,English,USA,74273505,Crime|Drama|Thriller,1518,122,Ethan Coen
+No Country for Old Men,2007,2008,WRITING (Adapted Screenplay),8.1,612060,25000000.0,English,USA,74273505,Crime|Drama|Thriller,1518,122,Ethan Coen
+Walk the Line,2005,2006,ACTRESS IN A LEADING ROLE,7.9,188637,28000000.0,English,USA,119518352,Biography|Drama|Music|Romance,815,153,James Mangold
+The Contender,2000,2001,ACTOR IN A SUPPORTING ROLE,7.0,20449,20000000.0,English,USA,17804273,Drama|Thriller,370,126,Rod Lurie
+The Contender,2000,2001,ACTRESS IN A LEADING ROLE,7.0,20449,20000000.0,English,USA,17804273,Drama|Thriller,370,126,Rod Lurie
+The Hurt Locker,2009,2010,BEST PICTURE,7.6,332065,15000000.0,English,USA,15700000,Drama|History|Thriller|War,876,131,Kathryn Bigelow
+The Hurt Locker,2009,2010,DIRECTING,7.6,332065,15000000.0,English,USA,15700000,Drama|History|Thriller|War,876,131,Kathryn Bigelow
+The Hurt Locker,2009,2010,FILM EDITING,7.6,332065,15000000.0,English,USA,15700000,Drama|History|Thriller|War,876,131,Kathryn Bigelow
+The Hurt Locker,2009,2010,SOUND EDITING,7.6,332065,15000000.0,English,USA,15700000,Drama|History|Thriller|War,876,131,Kathryn Bigelow
+The Hurt Locker,2009,2010,SOUND MIXING,7.6,332065,15000000.0,English,USA,15700000,Drama|History|Thriller|War,876,131,Kathryn Bigelow
+The Hurt Locker,2009,2010,WRITING (Original Screenplay),7.6,332065,15000000.0,English,USA,15700000,Drama|History|Thriller|War,876,131,Kathryn Bigelow
+The Cell,2000,2001,MAKEUP,6.3,79877,33000000.0,English,USA,61280963,Horror|Sci-Fi|Thriller,677,109,Tarsem Singh
+Crazy Heart,2009,2010,ACTOR IN A LEADING ROLE,7.3,67760,7000000.0,English,USA,39462438,Drama|Music|Romance,226,112,Scott Cooper
+Crazy Heart,2009,2010,MUSIC (Original Song),7.3,67760,7000000.0,English,USA,39462438,Drama|Music|Romance,226,112,Scott Cooper
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+Before Night Falls,2000,2001,ACTOR IN A LEADING ROLE,7.1,26191,20000000.0,English,USA,919671,Biography|Drama|Romance,141,133,Stefan Ruzowitzky
+The Sea Inside,2004,2005,FOREIGN LANGUAGE FILM,8.1,64556,10000000.0,Spanish,Spain,2086345,Biography|Drama|Romance,140,125,Alejandro Amenábar
+Ratatouille,2007,2008,ANIMATED FEATURE FILM,8.0,473887,150000000.0,English,USA,206435493,Animation|Comedy|Family|Fantasy,626,111,Brad Bird
+Ray,2004,2005,ACTOR IN A LEADING ROLE,7.7,110394,40000000.0,English,USA,75305995,Biography|Drama|Music,433,178,Taylor Hackford
+Ray,2004,2005,SOUND MIXING,7.7,110394,40000000.0,English,USA,75305995,Biography|Drama|Music,433,178,Taylor Hackford
+Billy Elliot,2000,2001,ACTRESS IN A SUPPORTING ROLE,7.7,98354,5000000.0,English,UK,21994911,Drama|Music,433,110,Stephen Daldry
+Billy Elliot,2000,2001,DIRECTING,7.7,98354,5000000.0,English,UK,21994911,Drama|Music,433,110,Stephen Daldry
+Billy Elliot,2000,2001,WRITING (Screenplay Written Directly for the Screen),7.7,98354,5000000.0,English,UK,21994911,Drama|Music,433,110,Stephen Daldry
+Crash,2005,2006,BEST PICTURE,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,BEST PICTURE,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,BEST PICTURE,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,BEST PICTURE,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,FILM EDITING,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,FILM EDITING,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,FILM EDITING,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,FILM EDITING,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,WRITING (Original Screenplay),7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,WRITING (Original Screenplay),7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,WRITING (Original Screenplay),7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,WRITING (Original Screenplay),7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+The Last King of Scotland,2006,2007,ACTOR IN A LEADING ROLE,7.7,145580,6000000.0,English,UK,17605861,Biography|Drama|History|Thriller,351,121,Kevin Macdonald
+Brokeback Mountain,2005,2006,DIRECTING,7.7,259837,14000000.0,English,USA,83025853,Drama|Romance,2254,134,Ang Lee
+Brokeback Mountain,2005,2006,MUSIC (Original Score),7.7,259837,14000000.0,English,USA,83025853,Drama|Romance,2254,134,Ang Lee
+Brokeback Mountain,2005,2006,WRITING (Adapted Screenplay),7.7,259837,14000000.0,English,USA,83025853,Drama|Romance,2254,134,Ang Lee
+Pan's Labyrinth,2006,2007,ART DIRECTION,8.2,467234,13500000.0,Spanish,Spain,37623143,Drama|Fantasy|War,1083,112,Guillermo del Toro
+Pan's Labyrinth,2006,2007,CINEMATOGRAPHY,8.2,467234,13500000.0,Spanish,Spain,37623143,Drama|Fantasy|War,1083,112,Guillermo del Toro
+Pan's Labyrinth,2006,2007,MAKEUP,8.2,467234,13500000.0,Spanish,Spain,37623143,Drama|Fantasy|War,1083,112,Guillermo del Toro
+Million Dollar Baby,2004,2005,ACTOR IN A SUPPORTING ROLE,8.1,482064,30000000.0,English,USA,100422786,Drama|Sport,1106,132,Clint Eastwood
+Million Dollar Baby,2004,2005,ACTRESS IN A LEADING ROLE,8.1,482064,30000000.0,English,USA,100422786,Drama|Sport,1106,132,Clint Eastwood
+Million Dollar Baby,2004,2005,BEST PICTURE,8.1,482064,30000000.0,English,USA,100422786,Drama|Sport,1106,132,Clint Eastwood
+Million Dollar Baby,2004,2005,DIRECTING,8.1,482064,30000000.0,English,USA,100422786,Drama|Sport,1106,132,Clint Eastwood
+The Queen,2006,2007,ACTRESS IN A LEADING ROLE,7.3,85333,9800000.0,English,UK,56437947,Biography|Drama,421,94,Stephen Frears
+Once,2007,2008,MUSIC (Original Song),7.9,90827,180000.0,English,Ireland,9437933,Drama|Music|Romance,329,85,John Carney
+Michael Clayton,2007,2008,ACTRESS IN A SUPPORTING ROLE,7.3,133367,25000000.0,English,USA,49024969,Crime|Drama|Mystery|Thriller,363,119,Tony Gilroy
+Syriana,2005,2006,ACTOR IN A SUPPORTING ROLE,7.0,109188,50000000.0,English,USA,50815288,Drama|Thriller,625,128,Stephen Gaghan
+Syriana,2005,2006,ACTOR IN A SUPPORTING ROLE,7.0,109188,50000000.0,English,USA,50815288,Drama|Thriller,625,128,Stephen Gaghan
+Syriana,2005,2006,ACTOR IN A SUPPORTING ROLE,7.0,109191,50000000.0,English,USA,50815288,Drama|Thriller,625,128,Stephen Gaghan
+Syriana,2005,2006,ACTOR IN A SUPPORTING ROLE,7.0,109191,50000000.0,English,USA,50815288,Drama|Thriller,625,128,Stephen Gaghan
+The Perfect Storm,2000,2001,SOUND,6.4,133076,140000000.0,English,USA,182618434,Action|Adventure|Drama|Thriller,779,130,Wolfgang Petersen
+The Perfect Storm,2000,2001,VISUAL EFFECTS,6.4,133076,140000000.0,English,USA,182618434,Action|Adventure|Drama|Thriller,779,130,Wolfgang Petersen
+Quills,2000,2001,ACTOR IN A LEADING ROLE,7.4,44795,13500000.0,English,UK,7060876,Biography|Drama,314,124,Philip Kaufman
+Quills,2000,2001,ART DIRECTION,7.4,44795,13500000.0,English,UK,7060876,Biography|Drama,314,124,Philip Kaufman
+Quills,2000,2001,COSTUME DESIGN,7.4,44795,13500000.0,English,UK,7060876,Biography|Drama,314,124,Philip Kaufman
+The Motorcycle Diaries,2004,2005,MUSIC (Original Song),7.7,104183,57700000.0,Spanish,UK,57663711,Adventure|Biography|Drama,311,126,Tim Burton
+"O Brother, Where Art Thou?",2000,2001,CINEMATOGRAPHY,7.8,225102,26000000.0,English,UK,45506619,Adventure|Comedy|Crime|Music,862,107,Joel Coen
+"O Brother, Where Art Thou?",2000,2001,WRITING (Screenplay Based on Material Previously Produced or Published),7.8,225102,26000000.0,English,UK,45506619,Adventure|Comedy|Crime|Music,862,107,Joel Coen
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316018,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316020,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND EDITING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,SOUND MIXING,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+King Kong,2005,2006,VISUAL EFFECTS,7.2,316027,207000000.0,English,New Zealand,218051260,Action|Adventure|Drama|Romance,2618,201,Peter Jackson
+8 Mile,2002,2003,MUSIC (Original Song),7.0,187181,41000000.0,English,USA,116724075,Drama|Music,564,110,Curtis Hanson
+The Young Victoria,2009,2010,COSTUME DESIGN,7.3,44931,35000000.0,English,UK,10991381,Biography|Drama|History|Romance,100,100,Jean-Marc Vallée
+Amores Perros,2000,2001,FOREIGN LANGUAGE FILM,8.1,173551,2000000.0,Spanish,Mexico,5383834,Drama|Thriller,361,115,Alejandro G. Iñárritu
+Juno,2007,2008,WRITING (Original Screenplay),7.5,414335,7500000.0,English,USA,143492840,Comedy|Drama|Romance,881,96,Jason Reitman
+Juno,2007,2008,WRITING (Original Screenplay),7.5,414335,7500000.0,English,USA,143492840,Comedy|Drama|Romance,881,96,Jason Reitman
+Juno,2007,2008,WRITING (Original Screenplay),7.5,414345,7500000.0,English,USA,143492840,Comedy|Drama|Romance,881,96,Jason Reitman
+Juno,2007,2008,WRITING (Original Screenplay),7.5,414345,7500000.0,English,USA,143492840,Comedy|Drama|Romance,881,96,Jason Reitman
+The Lord of the Rings: The Return of the King,2003,2004,ART DIRECTION,8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,BEST PICTURE,8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,COSTUME DESIGN,8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,DIRECTING,8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,FILM EDITING,8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,MAKEUP,8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,MUSIC (Original Score),8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,MUSIC (Original Song),8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,SOUND MIXING,8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,VISUAL EFFECTS,8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,WRITING (Adapted Screenplay),8.9,1215718,94000000.0,English,USA,377019252,Action|Adventure|Drama|Fantasy,3189,192,Peter Jackson
+The Lord of the Rings: The Two Towers,2002,2003,SOUND EDITING,8.7,1100446,94000000.0,English,USA,340478898,Action|Adventure|Drama|Fantasy,2417,172,Peter Jackson
+The Lord of the Rings: The Two Towers,2002,2003,VISUAL EFFECTS,8.7,1100446,94000000.0,English,USA,340478898,Action|Adventure|Drama|Fantasy,2417,172,Peter Jackson
+The Lord of the Rings: The Fellowship of the Ring,2001,2002,CINEMATOGRAPHY,8.8,1238746,93000000.0,English,New Zealand,313837577,Action|Adventure|Drama|Fantasy,5060,171,Peter Jackson
+The Lord of the Rings: The Fellowship of the Ring,2001,2002,MAKEUP,8.8,1238746,93000000.0,English,New Zealand,313837577,Action|Adventure|Drama|Fantasy,5060,171,Peter Jackson
+The Lord of the Rings: The Fellowship of the Ring,2001,2002,MUSIC (Original Score),8.8,1238746,93000000.0,English,New Zealand,313837577,Action|Adventure|Drama|Fantasy,5060,171,Peter Jackson
+The Lord of the Rings: The Fellowship of the Ring,2001,2002,VISUAL EFFECTS,8.8,1238746,93000000.0,English,New Zealand,313837577,Action|Adventure|Drama|Fantasy,5060,171,Peter Jackson
+Pollock,2000,2001,ACTOR IN A LEADING ROLE,7.0,23023,6000000.0,English,USA,8596914,Biography|Drama,148,122,Ed Harris
+Pollock,2000,2001,ACTRESS IN A SUPPORTING ROLE,7.0,23023,6000000.0,English,USA,8596914,Biography|Drama,148,122,Ed Harris
+Crash,2005,2006,BEST PICTURE,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,BEST PICTURE,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,BEST PICTURE,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,BEST PICTURE,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,FILM EDITING,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,FILM EDITING,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,FILM EDITING,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,FILM EDITING,7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,WRITING (Original Screenplay),7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,WRITING (Original Screenplay),7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,WRITING (Original Screenplay),7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Crash,2005,2006,WRITING (Original Screenplay),7.9,361169,6500000.0,English,Germany,54557348,Crime|Drama|Thriller,1624,115,Paul Haggis
+Training Day,2001,2002,ACTOR IN A LEADING ROLE,7.7,305929,45000000.0,English,USA,76261036,Crime|Drama|Thriller,633,122,Antoine Fuqua
+The Emperor's New Groove,2000,2001,MUSIC (Original Song),7.3,128285,100000000.0,English,USA,89296573,Adventure|Animation|Comedy|Family|Fantasy,297,78,Mark Dindal
+"Monsters, Inc.",2001,2002,MUSIC (Original Song),8.1,585659,115000000.0,English,USA,289907418,Adventure|Animation|Comedy|Family|Fantasy,593,92,Pete Docter
+Spirited Away,2002,2003,ANIMATED FEATURE FILM,8.6,417971,19000000.0,Japanese,Japan,10049886,Adventure|Animation|Family|Fantasy,902,125,Hayao Miyazaki
+There Will Be Blood,2007,2008,ACTOR IN A LEADING ROLE,8.1,372990,25000000.0,English,USA,40218903,Drama,1107,158,Paul Thomas Anderson
+There Will Be Blood,2007,2008,CINEMATOGRAPHY,8.1,372990,25000000.0,English,USA,40218903,Drama,1107,158,Paul Thomas Anderson
+The Incredibles,2004,2005,ANIMATED FEATURE FILM,8.0,479166,92000000.0,English,USA,261437578,Action|Adventure|Animation|Family,815,115,Brad Bird
+The Incredibles,2004,2005,SOUND EDITING,8.0,479166,92000000.0,English,USA,261437578,Action|Adventure|Animation|Family,815,115,Brad Bird
+Space Cowboys,2000,2001,SOUND EDITING,6.4,60165,65000000.0,English,USA,90454043,Action|Adventure|Thriller,326,130,Clint Eastwood
+The Dark Knight,2008,2009,ACTOR IN A SUPPORTING ROLE,9.0,1676169,185000000.0,English,USA,533316061,Action|Crime|Drama|Thriller,4667,152,Christopher Nolan
+The Dark Knight,2008,2009,SOUND EDITING,9.0,1676169,185000000.0,English,USA,533316061,Action|Crime|Drama|Thriller,4667,152,Christopher Nolan
+Star Trek,2009,2010,MAKEUP,8.0,504419,150000000.0,English,USA,257704099,Action|Adventure|Sci-Fi,1559,127,J.J. Abrams
+"Crouching Tiger, Hidden Dragon",2000,2001,ART DIRECTION,7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,BEST PICTURE,7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,CINEMATOGRAPHY,7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,COSTUME DESIGN,7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,DIRECTING,7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,FILM EDITING,7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,FOREIGN LANGUAGE FILM,7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,MUSIC (Original Score),7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,MUSIC (Original Song),7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+"Crouching Tiger, Hidden Dragon",2000,2001,WRITING (Screenplay Based on Material Previously Produced or Published),7.9,217740,15000000.0,Mandarin,Taiwan,128067808,Action|Drama|Romance,1641,120,Ang Lee
+Monster,2003,2004,ACTRESS IN A LEADING ROLE,7.3,105568,4500000.0,English,USA,34468224,Biography|Crime|Drama|Thriller,533,109,Patty Jenkins
+Elizabeth: The Golden Age,2007,2008,COSTUME DESIGN,6.9,54787,55000000.0,English,UK,16264475,Biography|Drama|History|War,216,114,Shekhar Kapur
+No Man's Land,2001,2002,FOREIGN LANGUAGE FILM,7.9,48495,2000000.0,Serbo-Croatian,Bosnia and Herzegovina,4858869,Comedy|Drama|War,190,98,Agnès Jaoui
+The Curious Case of Benjamin Button,2008,2009,ART DIRECTION,7.8,459346,150000000.0,English,USA,127490802,Drama|Fantasy|Romance,822,166,David Fincher
+The Curious Case of Benjamin Button,2008,2009,MAKEUP,7.8,459346,150000000.0,English,USA,127490802,Drama|Fantasy|Romance,822,166,David Fincher
+The Curious Case of Benjamin Button,2008,2009,VISUAL EFFECTS,7.8,459346,150000000.0,English,USA,127490802,Drama|Fantasy|Romance,822,166,David Fincher
+Babel,2006,2007,MUSIC (Original Score),7.5,243799,25000000.0,English,France,34300771,Drama,908,143,Alejandro G. Iñárritu
+Dancer in the Dark,2000,2001,MUSIC (Original Song),8.0,79330,12800000.0,English,Denmark,4157491,Crime|Drama|Musical,690,140,Lars von Trier
+Almost Famous,2000,2001,ACTRESS IN A SUPPORTING ROLE,7.9,207287,60000000.0,English,USA,32522352,Adventure|Comedy|Drama|Music,822,152,Cameron Crowe
+Almost Famous,2000,2001,ACTRESS IN A SUPPORTING ROLE,7.9,207287,60000000.0,English,USA,32522352,Adventure|Comedy|Drama|Music,822,152,Cameron Crowe
+Almost Famous,2000,2001,FILM EDITING,7.9,207287,60000000.0,English,USA,32522352,Adventure|Comedy|Drama|Music,822,152,Cameron Crowe
+Almost Famous,2000,2001,WRITING (Screenplay Written Directly for the Screen),7.9,207287,60000000.0,English,USA,32522352,Adventure|Comedy|Drama|Music,822,152,Cameron Crowe
+Monster's Ball,2001,2002,ACTRESS IN A LEADING ROLE,7.1,71495,4000000.0,English,USA,31252964,Drama|Romance,522,112,Marc Forster
+Lost in Translation,2003,2004,WRITING (Original Screenplay),7.8,321283,4000000.0,English,USA,44566004,Drama,1848,101,Sofia Coppola
+Dreamgirls,2006,2007,ACTRESS IN A SUPPORTING ROLE,6.5,55901,70000000.0,English,USA,103338338,Drama|Music|Musical,503,130,Bill Condon
+Dreamgirls,2006,2007,SOUND MIXING,6.5,55901,70000000.0,English,USA,103338338,Drama|Music|Musical,503,130,Bill Condon
+Meet the Parents,2000,2001,MUSIC (Original Song),7.0,260442,55000000.0,English,USA,166225040,Comedy,507,108,Jay Roach
+Pearl Harbor,2001,2002,SOUND EDITING,6.1,254111,140000000.0,English,USA,198539855,Action|Drama|History|Romance|War,1999,184,Michael Bay
+The Taste of Others,2000,2001,FOREIGN LANGUAGE FILM,7.2,10264,10200000,French,France,1021938,Comedy|Drama|Romance,53,112,Tim Burton
+The Pianist,2002,2003,ACTOR IN A LEADING ROLE,8.5,497946,35000000.0,English,France,32519322,Biography|Drama|War,761,150,Roman Polanski
+The Pianist,2002,2003,DIRECTING,8.5,497946,35000000.0,English,France,32519322,Biography|Drama|War,761,150,Roman Polanski
+The Pianist,2002,2003,WRITING (Adapted Screenplay),8.5,497946,35000000.0,English,France,32519322,Biography|Drama|War,761,150,Roman Polanski
+Inglourious Basterds,2009,2010,ACTOR IN A SUPPORTING ROLE,8.3,885175,75000000.0,English,USA,120523073,Adventure|Drama|War,1527,153,Quentin Tarantino
+Up,2009,2010,ANIMATED FEATURE FILM,8.3,665575,175000000.0,English,USA,292979556,Adventure|Animation|Comedy|Family,704,96,Pete Docter
+Up,2009,2010,MUSIC (Original Score),8.3,665575,175000000.0,English,USA,292979556,Adventure|Animation|Comedy|Family,704,96,Pete Docter
+Eternal Sunshine of the Spotless Mind,2004,2005,WRITING (Original Screenplay),8.3,666937,20000000.0,English,USA,34126138,Drama|Fantasy|Romance|Sci-Fi,1514,108,Michel Gondry
+102 Dalmatians,2000,2001,COSTUME DESIGN,4.8,26413,85000000.0,English,USA,66941559,Adventure|Comedy|Family,77,100,Kevin Lima
+An Inconvenient Truth,2006,2007,MUSIC (Original Song),7.5,67654,1500000.0,English,USA,23808111,Documentary,504,96,Davis Guggenheim
+Requiem for a Dream,2000,2001,ACTRESS IN A LEADING ROLE,8.4,573541,4500000.0,English,USA,3609278,Drama,1916,102,Darren Aronofsky
+WALL-E,2008,2009,ANIMATED FEATURE FILM,8.4,1179643,180000000.0,English,USA,521311890,Animation|Adventure|Family|Sci-Fi,1517,98,Andrew Stanton
+Lemony Snicket's A Series of Unfortunate Events,2004,2005,MAKEUP,6.8,218695,140000000.0,English,USA,211468235,Adventure|Comedy|Family|Fantasy,668,108,Brad Silberling
+Dr. Seuss' How the Grinch Stole Christmas,2000,2001,ART DIRECTION,6.3,286200,123000000.0,English,USA,346524444,Comedy|Family|Fantasy,724,104,Ron Howard
+Dr. Seuss' How the Grinch Stole Christmas,2000,2001,COSTUME DESIGN,6.3,286200,123000000.0,English,USA,346524444,Comedy|Family|Fantasy,724,104,Walter Salles
+Dr. Seuss' How the Grinch Stole Christmas,2000,2001,MAKEUP,6.3,286200,123000000.0,English,USA,346524444,Comedy|Family|Fantasy,724,104,Baz Luhrmann
+Moulin Rouge,2001,2002,ART DIRECTION,7.6,296420,50000000.0,English,Australia,184928542,Drama|Musical|Romance,2417,127,Roland Joffé
+Moulin Rouge,2001,2002,COSTUME DESIGN,7.6,296420,50000000.0,English,Australia,184928542,Drama|Musical|Romance,2417,127,Nick Park and Steve Box
+Sweeney Todd The Demon Barber of Fleet Street,2007,2008,ART DIRECTION,7.3,383235,50000000.0,English,UK,153383627,Drama|Horror|Musical|Thriller,928,116,Olivier Dahan
+Vatel,2000,2001,ART DIRECTION,6.6,8176,36000000.0,English,France,184301,Biography|Drama|History|Romance,47,103,Julian Schnabel
+Wallace & Gromit in The Curse of the Were-Rabbit,2005,2006,ANIMATED FEATURE FILM,7.5,144505,30000000.0,English,UK,192641209,Animation|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,361,85,Spike Jonze
+La Vie en Rose,2007,2008,ACTRESS IN A LEADING ROLE,7.6,90079,25000000.0,French,France,87484847,Biography,1,130,Lee Daniels
+La Vie en Rose,2007,2008,MAKEUP,7.6,90079,25000000.0,French,France,87484847,Biography,1,130,Pedro Almodóvar
+Adaptation,2002,2003,ACTOR IN A SUPPORTING ROLE,7.7,200702,19000000.0,English,USA,32801173,Comedy|Drama,791,115,Danis Tanović
+Precious: Based on the Novel 'Push' by Sapphire,2009,2010,ACTRESS IN A SUPPORTING ROLE,7.3,115251,10000000.0,English,USA,63649529,Drama,340,110,Yojiro Takita
+Precious: Based on the Novel 'Push' by Sapphire,2009,2010,WRITING (Adapted Screenplay),7.3,115251,10000000.0,English,USA,63649529,Drama,340,110,Jan Hřebejk
+Divided We Fall,2000,2001,FOREIGN LANGUAGE FILM,7.6,5347,270000,Czech,Czech Republic,2046440,Comedy|Drama|War,67,117,Brad Silberling
+Everybody Famous!,2000,2001,FOREIGN LANGUAGE FILM,6.9,3319,1870000,Flemish,Belgium,97353,Comedy|Drama|Music,38,97,Ron Howard
+Mal¨¨na,2000,2001,CINEMATOGRAPHY,7.4,110246,10000000,Italian,Italy,14493284,Drama|Romance|War,301,108,Walter Salles
+Mal¨¨na,2000,2001,MUSIC (Original Score),7.4,110246,10000000,Italian,Italy,14493284,Drama|Romance|War,301,108,Baz Luhrmann
