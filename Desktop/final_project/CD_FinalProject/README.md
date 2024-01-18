@@ -79,4 +79,4 @@ Retrieved from https://voyant-tools.org/docs/#!/guide/tools
 
 ## 5.Project Website
 
-For findings of the project, please visit our project [website] (https://filmproject.my.canva.site/cd).**
+For findings of the project, please visit our project [website](https://filmproject.my.canva.site/cd).
